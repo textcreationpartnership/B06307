@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Sir Edward Turner knight, speaker of the honourable House of Commons, to the Kings most excellent Majesty, on Monday the eleventh day of April, 1670. Upon the adjournment of the Parliament.</title>
+            <author>Turnor, Edward, Sir, 1617-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06307</idno>
+            <idno type="STC">Wing T3363</idno>
+            <idno type="STC">ESTC R223302</idno>
+            <idno type="EEBO-CITATION">52612371</idno>
+            <idno type="OCLC">ocm 52612371</idno>
+            <idno type="VID">179697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06307)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179697)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2797:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Sir Edward Turner knight, speaker of the honourable House of Commons, to the Kings most excellent Majesty, on Monday the eleventh day of April, 1670. Upon the adjournment of the Parliament.</title>
+                  <author>Turnor, Edward, Sir, 1617-1676.</author>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>8 p. : coat of arms.  </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by Evan Tyler, printer to the King's most Excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Royal arms on t.p. verso.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Includes "His Majesties gracious speech" adjourning Parliament.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179697:1"/>
+            <!-- PDF PAGE 55 -->
+            <pb facs="tcp:179697:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <p>THE SPEECH OF Sir <hi>EDWARD T<g ref="char:V">Ʋ</g>RNER</hi> KNIGHT,</p>
+            <p>SPEAKER of the Honourable Houſe of COMMONS, TO THE KINGS MOST EXCELLENT MAJESTY,</p>
+            <p>On Monday the eleventh day of <hi>April,</hi> 1670. Upon the Adjournment of the Parliament.</p>
+            <p>
+               <hi>EDINBURGH,</hi> Re-printed by <hi>Evan Tyler,</hi> Printer to the King's moſt Excellent Majeſty, 1670.</p>
+            <pb facs="tcp:179697:2"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:179697:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:179697:3"/>
+            <!-- PDF PAGE 57 -->
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </head>
+            <pb n="3" facs="tcp:179697:3"/>
+            <!-- PDF PAGE 57 -->
+            <head>THE SPEECH OF Sir <hi>EDWARD T<g ref="char:V">Ʋ</g>RNER</hi> KNIGHT, SPEAKER of the Honourable HOUSE of COMMONS, To the KINGS moſt Excellent MAJESTY, On Monday the eleventh day of <hi>April,</hi> 1670. Upon the Adjournment of the Parliament.</head>
+            <opener>
+               <salute>May it pleaſe Your moſt Excellent Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>T the opening of this Seſſion of Parlia<g ref="char:EOLhyphen"/>ment, your <hi>Majeſty</hi> was pleaſed to ſpeak to your two Houſes, and recommended three things eſpecially to us; Unity amongſt our ſelves, the Union of your <hi>Majeſties</hi> two Kingdoms of <hi>England</hi> and <hi>Scotland,</hi> and the ſupply of your <hi>Majeſties</hi> preſent and urgent Occaſions. In obedience to your <hi>Majeſties</hi> Com<g ref="char:EOLhyphen"/>mands,
+<pb n="4" facs="tcp:179697:4"/>
+               <!-- PDF PAGE 58 -->we have induſtriouſly applyed our ſelves to the conſideration of theſe Matters.</p>
+            <p>By the bleſſing of God, all differences are buried in oblivion; Your <hi>Majeſties</hi> happy Expedient, hath like a ſtrong gale of Wind, blown up the Rouling Sands, and filled up all impreſſions, <hi>Veſtigia nulla retrorſum:</hi> And as your People will univerſally enjoy the fruit of this happy Union, So our united prayers to God ſhall be, that your <hi>Majeſty</hi> may be Crowned with the promiſed Bleſſing, <hi>Beati Patifici.</hi>
+            </p>
+            <p>In order to the Union of your <hi>Majeſties</hi> two King<g ref="char:EOLhyphen"/>doms, both your Houſes of Parliament have humbly beſought your <hi>Majeſty</hi> to name Commiſſioners for this your Kingdom of <hi>England,</hi> and we have prepared a Bill to Authorize them to Treat with Commiſſioners to be appointed for your Kingdom of <hi>Scotland,</hi> upon ſuch Grounds as ſhall be thought conducing to that end, and to report them to your <hi>Majeſty,</hi> and to both Houſes of Parliament of this your Kingdom of <hi>England,</hi> reſerving alwayes to your <hi>Majeſty</hi> and the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, the entire conſideration of the whole, and the allowing or diſallowing thereof, or any part thereof, as they ſhall think fit.</p>
+            <p>We have alſo conſidered of a Supply for your <hi>Majeſties</hi> Occaſions; and I am commanded by the Knights, Ci<g ref="char:EOLhyphen"/>tizens and Burgeſſes of the Houſe of Commons, to pre<g ref="char:EOLhyphen"/>ſent your <hi>Majeſty</hi> with this Bill, whereby we have given to your <hi>Majeſty</hi> an Impoſition upon all Wines and Vine<g ref="char:EOLhyphen"/>gar imported, after the rate of 8 <hi>
+                  <abbr>l.</abbr> per</hi> Tun for all French Wines and Vinegar, and 12 <hi>
+                  <abbr>l.</abbr> per</hi> Tun for all other Wines; and have granted this unto your <hi>Majeſty</hi> for eight years, to commence from <hi>Midſummer</hi> next. And I am further commanded to acquaint your <hi>Majeſty,</hi> that
+<pb n="5" facs="tcp:179697:4"/>
+               <!-- PDF PAGE 58 -->we apprehended the Revenue ariſing by the power of granting Wine Licences, ſettled upon his Royal High<g ref="char:EOLhyphen"/>neſs by Act of Parliament, hath been prejudiced by the laſt Impoſition upon Wines, and will be much more im<g ref="char:EOLhyphen"/>paired by this preſent Impoſition: we therefore added the laſt year unto this Bill of Supply, with this Vote, That your <hi>Majeſty</hi> be humbly deſired therewith to re<g ref="char:EOLhyphen"/>compence his Royal Highneſs the Duke of <hi>York,</hi> for the damage he hath received, and ſhall receive in his Revenue of Wine Licences, by this and the laſt Impoſition.</p>
+            <p>Having thus in the firſt place with all dutifulneſs obey<g ref="char:EOLhyphen"/>ed your <hi>Majeſties</hi> Commands, we held it neceſſary to re<g ref="char:EOLhyphen"/>member thoſe that ſent us hither, and to preſent unto your <hi>Majeſty</hi> ſome Bills that will be of publick uſe for all the People of the Nation.</p>
+            <p>There is firſt a Bill for the prevention of Seditious Conventicles, whereby no man is hindred the uſe of his own Judgement, in the exerciſe of Religion by himſelf, or in his own Family, or in the preſence of four Strangers; but becauſe the Peace of the Nation may be endangered by more populous Meetings, contrary to the Liturgy and Practice of the Church of <hi>England,</hi> we have impoſed a Penalty of 5 <abbr>
+                  <hi>s.</hi>
+               </abbr> for the firſt offence, and 10 <abbr>
+                  <hi>s.</hi>
+               </abbr> for the ſecond, and every other offence upon all ſuch offenders, to be levyed by diſtreſs and ſale of the offenders Goods.</p>
+            <p>We are informed that your <hi>Majeſty</hi> ſuffers much by the ſtealing and imbezilling of your Ordnance, Ammunition, Sail Cloaths and Stores; and likewiſe your good People are much damnified by a wicked ſort of people, who make it their practice in the night-time to ſteal woollen Cloaths and Stuffs from off the Racks, and they are much encou<g ref="char:EOLhyphen"/>raged in this their wickedneſs, by reaſon they have their Clergy: We have therefore prepared a Bill for the tak<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:179697:5"/>
+               <!-- PDF PAGE 59 -->away the benefit of Clergy, upon the conviction of all ſuch offenders.</p>
+            <p>We have likewiſe prepared an additional Bill for the rebuilding the City of <hi>London,</hi> wherein we have revived the Judicatory of your <hi>Majeſties</hi> twelve Judges, im<g ref="char:EOLhyphen"/>powering them to hear and determine the remainder of Cauſes and Controverſies, which have not already re<g ref="char:EOLhyphen"/>ceived a ſettlement by them. We have alſo made pro<g ref="char:EOLhyphen"/>viſion for the widening many more Streets than were mentioned in the former Act, and to enable the Lord Mayor and Aldermen of the City of <hi>London,</hi> to give ſa<g ref="char:EOLhyphen"/>tisfaction to thoſe whoſe Grounds ſhall be taken from them. And alſo for laying the foundation at leaſt of the famous Cathedral of <hi>St. Paul,</hi> and towards the rebuild<g ref="char:EOLhyphen"/>ing of fifty one Pariſh Churches, we have added an Im<g ref="char:EOLhyphen"/>poſition of 2 <abbr>
+                  <hi>s.</hi>
+               </abbr> for every Chaldron of Coals that ſhall be brought into the Port of <hi>London,</hi> for the ſpace of ſeven<g ref="char:EOLhyphen"/>teen years to come.</p>
+            <p>We have likewiſe prepared a Bill for the aſcertaining the Meaſures of Corn and Salt, and provided that one Meaſure ſhall be uſed in all the Market-Towns of this Kingdom.</p>
+            <p>We have found great inconveniences by the want of due repairing the Highwayes of this Kingdom, and have therefore taken care for time to come both to amend them, and to prevent the ſpoiling of them again, by car<g ref="char:EOLhyphen"/>rying exceſſive Loads, and drawing them with extraordi<g ref="char:EOLhyphen"/>nary number of Horſes and other Cattel.</p>
+            <p>Experience tells us, when the conſumption of Forreign Commodities exceeds the uſe and exportation of our Native Commodities, the Nation muſt inſenſibly grow poor, and our Treaſure will be exhauſted: We have therefore prepared a Bill for the encouragement of Til<g ref="char:EOLhyphen"/>lage,
+<pb n="7" facs="tcp:179697:5"/>
+               <!-- PDF PAGE 59 -->by permitting the exporting of Corn, and alſo for the encouragement of other ſorts of good Husbandry, by exporting of Horſes, Swine and other Cattel, and of Butter and Cheeſe, and have made them all free Merchan<g ref="char:EOLhyphen"/>dize, paying certain Duties to your <hi>Majeſty</hi> upon the exportation.</p>
+            <p>There be ſome other Bills of a publick nature, and divers private Bills, all which are ready to be preſented to your <hi>Majeſty</hi> for your Royal Aſſent, the which I ſhall forbear to enumerate, for fear it may prove tedious to your <hi>Majeſty.</hi>
+            </p>
+            <p>Having given your <hi>Majeſty</hi> this Account of our pro<g ref="char:EOLhyphen"/>ceedings ſince our laſt meeting, in this our ſhort, but happy Seſſion, it is evident we have not miſpent our time, but with the good Servant in the Goſpel, have gained many Talents; So that we may with comfort and ſatisfaction return to our Houſes, and we hope we ſhall carry our Maſters Bleſſing with us.</p>
+         </div>
+         <div type="speech">
+            <pb n="8" facs="tcp:179697:6"/>
+            <!-- PDF PAGE 60 -->
+            <head>HIS MAJESTIES GRACIOUS SPEECH.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am unwilling to let you go away without telling you, that I am very well ſatisfied with the ſuc<g ref="char:EOLhyphen"/>ceſs of this Meeting; and that you have ſo well complyed with My deſires, both in the correſpon<g ref="char:EOLhyphen"/>dence between the two Houſes, and in the progreſs you have made towards an Union between the two Kingdoms. I heartily thank you for the Supply you have given Me; and I aſſure you, I will make it go as far as I can, towards the ſatiſ<g ref="char:EOLhyphen"/>fying of My Debts. And becauſe you have been long from home, I am content you Adjourn your ſelves till the <hi>24.</hi> of <hi>October</hi> next.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
